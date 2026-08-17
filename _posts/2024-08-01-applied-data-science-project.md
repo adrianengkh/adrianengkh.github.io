@@ -6,6 +6,7 @@ categories: ITD224
 ---
 ## Project Background
 Test fork of ITD214 Github template - renamed to ITD224
+Also added this line.
 
 Provide an overview of your team's project business goals and objectives and state the objective that you are working on. 
 
