@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Adrian Eng
-title: "Applied Data Science Project Documentation"
+title: "2026S1 ITD224 Applied Data Science Project - Documentation"
 categories: ITD224
 ---
 ## Project Background
