@@ -5,7 +5,7 @@ title: "Applied Data Science Project Documentation"
 categories: ITD224
 ---
 ## Project Background
-Test fork of ITD214 Github template
+Test fork of ITD214 Github template - renamed to ITD224
 
 Provide an overview of your team's project business goals and objectives and state the objective that you are working on. 
 
